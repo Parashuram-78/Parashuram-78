@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **itzakurhere@gmail.com**
 
-- ⚡ Fun fact **I love**
+- ⚡ Interests **Cricket Freak **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
