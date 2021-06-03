@@ -14,16 +14,11 @@
 - ⚡ Other Interesrts **Cricket**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/parashuram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="parashuram" height="30" width="40" /></a>
-<a href="https://twitter.com/parashuram78_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="parashuram78_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/ankur-shukla-4b9606197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ankur-shukla-4b9606197" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ankur.shukla.393950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ankur.shukla.393950" height="30" width="40" /></a>
-<a href="https://instagram.com/parashuram.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="parashuram.__" height="30" width="40" /></a>
-<a href="https://dribbble.com/coderraja78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="coderraja78" height="30" width="40" /></a>
-<a href="https://medium.com/@ankur.shukla.met19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@ankur.shukla.met19" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/coderraja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="coderraja" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankur_shukla78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="ankur_shukla78" height="30" width="40" /></a>
+<p align="left"> <a href="https://twitter.com/parashuram78_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="parashuram78_" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ankur-shukla-/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ankur-shukla-/" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/ankur.shukla.393950" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/ankur.shukla.393950" height="30" width="40" /></a>
+  <a href="https://instagram.com/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sanskar_omar" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/parashuram.__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt=parashuram.__" height="30" width="40" /></a><!--<a href="https://www.hackerrank.com/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sanskar_omar" height="30" width="40" /></a>--> <a href="https://codeforces.com/profile/coderraja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="coderraja" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
