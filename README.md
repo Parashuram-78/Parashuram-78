@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Node**
 
-- 📫 How to reach me **itzakurhere@gmail.com**
+- 📫 How to reach me **itzankurhere@gmail.com**
 
 - ⚡ Other Interesrts **Cricket**
 
