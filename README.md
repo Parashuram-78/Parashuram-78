@@ -7,7 +7,7 @@
 
 <h2>- 🌱 I’m currently learning **React, Node**</h2>
 
-<h2>- 📫 How to reach me **itzankurhere@gmail.com**</h2>
+<!-- <h2>- 📫 How to reach me **itzankurhere@gmail.com**</h2> -->
 
 <h2>- ⚡ Other Interests **Cricket**</h2>
 
