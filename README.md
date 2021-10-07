@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React, Node**
+- <h2>🌱 I’m currently learning **React, Node**</h2>
 
 - 📫 How to reach me **itzankurhere@gmail.com**
 
