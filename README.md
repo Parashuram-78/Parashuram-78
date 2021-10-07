@@ -11,6 +11,7 @@
 
 <h2>- ⚡ Other Interests Cricket</h2>
 
+<p> <a href="https://camo.githubusercontent.com/e6b8ba7c140359e9c54ccff18eb6632ff4ca216eadea137ab7a34ef3e712ce58/68747470733a2f2f6769746875622d726561646d652d71756f7465732e6865726f6b756170702e636f6d2f71756f74653f7468656d653d68696768636f6e747261737426616e696d6174696f6e3d67726f775f6f75745f696e2671756f746543617465676f72793d70726f6772616d6d696e67" target="blank"></a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/parashuram78_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="parashuram78_" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/ankur-shukla-/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ankur-shukla-/" height="30" width="40" /></a>
