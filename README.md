@@ -9,7 +9,7 @@
 
 <!-- <h2>- 📫 How to reach me **itzankurhere@gmail.com**</h2> -->
 
-<h2>- ⚡ Other Interests Cricket</h2>
+<h2>- ⚡Interests: Cricket and Social Welfare</h2>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=1000&height=69&font=Comfortaa&color=20C20E&lines=Namaste+🙏;Check+out+my+Pinned+Repositories;Connect+with+me+for+Collaboration;Ask+me+about+anything,+I+am+happy+to+help;I+believe+in+MSD+supremacy+:+\);)
 
@@ -27,7 +27,7 @@
 <p align="left"> <a href="https://twitter.com/parashuram78_" target="blank"><img src="https://img.shields.io/twitter/follow/parashuram78_?logo=twitter&style=for-the-badge" alt="parashuram78_" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parashuram-78&label=Profile%20views&color=0e75b6&style=flat" alt="parashuram-78" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parashuram-78&show_icons=true&locale=en&layout=compact" alt="parashuram-78" /></p>
-
+***
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parashuram-78&show_icons=true&locale=en" alt="parashuram-78" /></p>
 
 
